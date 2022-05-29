@@ -2,3 +2,17 @@
 Link para download do Git: https://git-scm.com/download/win
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos do Bash:
+
+git clone + o link https
+
+cd + pasta
+
+git status
+
+git add. ou git add -a: adiciona os arquivos, depois dá um git status e vc verá que a pasta já ficou verde, ou seja, foi adicionado o controle de versão local.
+
+git commit -m "Qualquer anotação"
+
+git push: mandar para a nuvem
